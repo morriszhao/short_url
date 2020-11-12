@@ -1,7 +1,8 @@
 <?php
 
+namespace ShortUrl;
 
-class shortUrl
+class ShortUrl
 {
     protected $salt = '1nd910kds';
     protected $shortUrlHost;
