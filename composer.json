@@ -1,0 +1,13 @@
+{
+    "name": "zhaolm/shorturl",
+    "description": "短标签  short url",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaolm",
+            "email": "1269665498@qq.com"
+        }
+    ],
+    "require": {}
+}
