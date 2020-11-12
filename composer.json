@@ -9,5 +9,10 @@
             "email": "1269665498@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ShortUrl\\": "src"
+        }
+    }
 }
